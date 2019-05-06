@@ -1,0 +1,4 @@
+#Tue Oct 04 10:36:48 CEST 2016
+base.0=C\:\\Users\\BAUMGA56\\AndroidStudioProjects\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\BAUMGA56\\AndroidStudioProjects\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

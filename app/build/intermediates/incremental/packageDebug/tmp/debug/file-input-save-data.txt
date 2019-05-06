@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 26 12:05:29 CEST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\kaias\\Documents\\UNI\\Semester 2\\Android\\Ubungen\\U4\\Bullsht\\Bullsht\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+0.path=classes.dex
+0.set=DEX
+count=1

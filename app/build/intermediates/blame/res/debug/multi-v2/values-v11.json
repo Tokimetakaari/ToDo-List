@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Niklas Jahning\\Documents\\GitHub\\Just-4-Fun\\Bullsht\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Niklas Jahning\\Documents\\GitHub\\Just-4-Fun\\Bullsht\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "3",
+                        "startOffsets": "178",
+                        "endLines": "8",
+                        "endColumns": "11",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "11",
+                        "endOffsets": "184"
+                    }
+                }
+            ]
+        }
+    ]
+}

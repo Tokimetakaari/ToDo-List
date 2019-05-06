@@ -1,0 +1,4 @@
+#Sat Jun 30 17:56:45 CEST 2018
+base.0=C\:\\Users\\kaias\\Documents\\UNI\\Semester 2\\Android\\Ubungen\\U4\\Bullsht\\Bullsht\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+path.0=classes.dex
+renamed.0=classes.dex

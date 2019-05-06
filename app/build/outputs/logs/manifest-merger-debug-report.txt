@@ -1,0 +1,68 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:14:4-17:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:3:11-53
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:6:4-20:18
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:8:7-43
+	android:allowBackup
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:7:7-33
+	android:theme
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:10:7-38
+activity#de.ur.mi.android.excercises.ToDo.MainActivity
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:11:7-19:18
+	android:label
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:13:10-42
+	android:name
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:12:10-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:14:10-18:26
+action#android.intent.action.MAIN
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:15:13-64
+	android:name
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:15:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:17:13-72
+	android:name
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:17:23-70
+uses-sdk
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:15:5-42
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_1f12b7d9a0609b24d48220c08137ea3969226cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_c36b1f68025b92d701f61e11945c245758216de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_a03e53edafcefb837cad21d0619674317218d578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1c03489a63ef1939b5c3455838ccf1553a3e91c8">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6c233bb3bb571fa097f8eb698a0d2610b1b749dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0837962f62261d51584a6472055157e3554fb6ed">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\instant-run_252127d3ea19a3887d78c7d0c536280af9ccd0aa.jar" />
+    </item>
+
+</items>
