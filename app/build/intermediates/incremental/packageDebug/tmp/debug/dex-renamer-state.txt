@@ -1,4 +1,4 @@
-#Fri Apr 26 12:05:28 CEST 2019
-base.0=C\:\\Users\\kaias\\Documents\\UNI\\Semester 2\\Android\\Ubungen\\U4\\Bullsht\\Bullsht\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+#Tue May 07 13:02:25 CEST 2019
+base.0=C\:\\Users\\Niklas Jahning\\Documents\\GitHub\\Just-4-Fun\\Bullsht\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

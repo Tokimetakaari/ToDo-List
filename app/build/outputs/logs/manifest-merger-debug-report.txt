@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:14:4-17:12
-INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:3:11-53
 		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
@@ -23,7 +23,7 @@ INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\sr
 		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:6:4-20:18
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:6:4-21:18
 MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:16:5-19
 MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Niklas Jahning\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\f5f30bf61bc60da91b9b5c1845a396fa\AndroidManifest.xml:16:5-19
 	android:label
@@ -50,6 +50,10 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:17:13-72
 	android:name
 		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:17:23-70
+activity#de.ur.mi.android.excercises.ToDo.AddTask
+ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:20:8-44
+	android:name
+		ADDED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml:20:18-41
 uses-sdk
 INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Niklas Jahning\Documents\GitHub\Just-4-Fun\Bullsht\app\src\main\AndroidManifest.xml

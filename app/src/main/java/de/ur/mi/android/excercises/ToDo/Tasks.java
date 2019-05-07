@@ -6,9 +6,11 @@ public class Tasks
     String name;
     String note;
 
-    public Tasks()
+    public Tasks(String d, String na, String no)
     {
-
+            date = d;
+            name = na;
+            note = no;
     }
 }
 

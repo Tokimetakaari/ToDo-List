@@ -18,13 +18,17 @@ public final class R {
   public static final class id {
     public static final int action_settings=0x7f030000;
     public static final int add=0x7f030001;
-    public static final int edit_task=0x7f030002;
-    public static final int list=0x7f030003;
-    public static final int test=0x7f030004;
-    public static final int view_headline=0x7f030005;
+    public static final int clear=0x7f030002;
+    public static final int create_add=0x7f030003;
+    public static final int create_back=0x7f030004;
+    public static final int dateText=0x7f030005;
+    public static final int list=0x7f030006;
+    public static final int nameText=0x7f030007;
+    public static final int noteText=0x7f030008;
   }
   public static final class layout {
     public static final int activity_main=0x7f040000;
+    public static final int create=0x7f040001;
   }
   public static final class menu {
     public static final int main=0x7f050000;

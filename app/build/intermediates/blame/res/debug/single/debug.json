@@ -22,5 +22,9 @@
     {
         "merged": "C:\\Users\\Niklas Jahning\\Documents\\GitHub\\Just-4-Fun\\Bullsht\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Niklas Jahning\\Documents\\GitHub\\Just-4-Fun\\Bullsht\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Niklas Jahning\\Documents\\GitHub\\Just-4-Fun\\Bullsht\\app\\build\\intermediates\\res\\merged\\debug\\layout_create.xml.flat",
+        "source": "C:\\Users\\Niklas Jahning\\Documents\\GitHub\\Just-4-Fun\\Bullsht\\app\\src\\main\\res\\layout\\create.xml"
     }
 ]
